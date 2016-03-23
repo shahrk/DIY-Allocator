@@ -36,7 +36,6 @@ team_t team = {
 	"Keval Shah",
 	/* Second member's email address (leave blank if none) */
 	"201401408@daiict.ac.in"
-	// Learning to use github
 };
 
 /* Basic constants and macros: */

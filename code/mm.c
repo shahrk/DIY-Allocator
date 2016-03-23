@@ -33,9 +33,9 @@ team_t team = {
 	/* First member's email address */
 	"201401450@daiict.ac.in",
 	/* Second member's full name (leave blank if none) */
-	"",
+	"Keval Shah",
 	/* Second member's email address (leave blank if none) */
-	""
+	"201401408@daiict.ac.in"
 };
 
 /* Basic constants and macros: */
